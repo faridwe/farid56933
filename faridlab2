@@ -23,7 +23,7 @@ public class mySecondApp {
         double second = scanner.nextDouble();
         System.out.println("x + y = " + (first + second));
       /*
-        Scanner scanner = new Scanner(System.in);
+        Scanner = new Scanner(System.in);
         System.out.println("Farid:");
         String forename = scanner.nextLine();
         System.out.println("Aliyev:");
@@ -31,4 +31,31 @@ public class mySecondApp {
         scanner.close();
         System.out.println("Welcome " + forename + " " + surname);
          *\
-    }
+    }//task 2
+
+
+    # Program 1
+        # Create an integer variable x and assign the value of 10 to it
+        x = 10
+
+        # Calculate double of x
+        double_x = 2 * x
+
+        # Calculate x squared
+        x_squared = x ** 2
+
+        # Display the values
+        print(f"x = {x}")
+        print(f"Double of x: {double_x}")
+        print(f"x squared: {x_squared}")
+        # Program 2
+        # Ask
+        for user 's age in years
+        age_in_years = int(input("Enter your age in years: "))
+
+        # Convert age to seconds(assuming 365.25 days per year)
+        age_in_seconds = age_in_years * 365.25 * 24 * 60 * 60
+
+        # Display the converted age
+        print(f "My age in seconds: {age_in_seconds} seconds")
+
