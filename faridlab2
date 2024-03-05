@@ -24,12 +24,11 @@ public class mySecondApp {
         System.out.println("x + y = " + (first + second));
       /*
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Please enter your name:");
+        System.out.println("Farid:");
         String forename = scanner.nextLine();
-        System.out.println("Please enter your surname:");
+        System.out.println("Aliyev:");
         String surname = scanner.nextLine();
         scanner.close();
         System.out.println("Welcome " + forename + " " + surname);
          *\
     }
-}
